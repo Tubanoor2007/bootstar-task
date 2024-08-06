@@ -1,0 +1,6 @@
+.header-sec{
+    background-image: url(asset/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
